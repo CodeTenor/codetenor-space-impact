@@ -1,0 +1,10 @@
+Instructions
+1. Create .css .js .html file
+2. Create Html
+3. Create .css and link to html
+4. Create Js and link to html
+5. In js show and hide game menu
+	- get all dom elements
+6. Get car to move to starting postion
+7. Add all directional movement for car
+8.
